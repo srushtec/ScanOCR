@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+pillow
+google-generativeai
+python-dotenv
+pandas
+openpyxl
+gunicorn
+requests
