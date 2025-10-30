@@ -153,6 +153,7 @@ Return the text exactly in the original language."""
             else:
                 data_dict[col] = found_line.replace(col, "").strip()
         else:
+       
             data_dict[col] = ""
 
 with col2:
